@@ -1,0 +1,17 @@
+COUNTY,itemURL,title,TilesetID
+15-County,https://www.arcgis.com/sharing/rest/content/items/80f0c19563034ef5980a9fc880475716/data,15-County Region population predictions,12
+Delaware,https://www.arcgis.com/sharing/rest/content/items/42dec90a2ed54e77a9d6bf34baa260df/data,Delaware population predictions,12
+Fairfield,https://www.arcgis.com/sharing/rest/content/items/0a62b3e82afc403a95b3157ccd266868/data,Fairfield population predictions,12
+Fayette,https://www.arcgis.com/sharing/rest/content/items/5c9a4fd319454f84a2dd9a09c1256ad3/data,Fayette population predictions,12
+Franklin,https://www.arcgis.com/sharing/rest/content/items/27123939469a4e2380916d83fd72639a/data,Franklin population predictions,12
+Hocking,https://www.arcgis.com/sharing/rest/content/items/df4a6031f4b343be8f38ff4ed9496416/data,Hocking population predictions,12
+Knox,https://www.arcgis.com/sharing/rest/content/items/b9b6fb19dddc41349c4bbc89ea6f0a09/data,Knox population predictions,12
+Licking,https://www.arcgis.com/sharing/rest/content/items/9e0f3eda5cd94b79a2dd02c8a9a9a088/data,Licking population predictions,12
+Logan,https://www.arcgis.com/sharing/rest/content/items/278a361726904a35bee30217ffc9201f/data,Logan population predictions,12
+Madison,https://www.arcgis.com/sharing/rest/content/items/f301a8c6690244d8b809758852142f9c/data,Madison population predictions,12
+Marion,https://www.arcgis.com/sharing/rest/content/items/72ddd02b48944cf98ddd901ba99a2522/data,Marion population predictions,12
+Morrow,https://www.arcgis.com/sharing/rest/content/items/d19550eb786b43e88e3c650ae3c1df85/data,Morrow population predictions,12
+Perry,https://www.arcgis.com/sharing/rest/content/items/44c59c743b7747a19ddef4358b1e5f32/data,Perry population predictions,12
+Pickaway,https://www.arcgis.com/sharing/rest/content/items/93302fd9a87e463c8d1f003055369e91/data,Pickaway population predictions,12
+Ross,https://www.arcgis.com/sharing/rest/content/items/7dd1924ac6094518849296ca924cc9b7/data,Ross population predictions,12
+Union,https://www.arcgis.com/sharing/rest/content/items/9cac6239acd84a01b49a452c3b055fb1/data,Union population predictions,12
